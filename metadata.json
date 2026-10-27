@@ -1,0 +1,6 @@
+{
+  "name": "UV-detective",
+  "description": "Interaktív nyomozós oktatójáték az UV-sugárzás és veszélyhelyzetek felderítésére: helyszínelés, tesztek, tények és tévhitek, valamint UV-index kalkulátor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
